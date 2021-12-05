@@ -4,7 +4,7 @@ import numpy as np
 import csv
 
 
-vd1 = "C:/Users/Han/.conda/envs/env38/port_analysis_test3.csv"
+vd1 = "port_analysis_test3.csv"
 viewdata1 = pd.read_csv(vd1)
 
 
